@@ -23,6 +23,13 @@ Here is some material from my university courses in La Sapienza:
 - [Multicore Systems](https://github.com/Valerio-Cola/Sistemi_Multicore): This repository is a collection of university notes from the Multicore Systems Programming course, focused on parallel programming.
 - [Operating Systems Project](https://github.com/Valerio-Cola/progetto_sistemi): Project for the Operating Systems 2 course, it is a program that analyzes large amounts of text and generates sentences from it.
 
+## 🌐 Programming Languages
+
+<p align="center">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+</p>
 
 ## 🛠️ Tools I Use
 
