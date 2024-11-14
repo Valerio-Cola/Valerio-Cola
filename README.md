@@ -29,6 +29,8 @@ Here is some material from my university courses in La Sapienza:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Valerio-Cola&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Valerio-Cola's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Valerio-Cola&theme=tokyonight&hide_border=true" alt="Valerio-Cola's Streak" height="165">
 </p>
 
 ## 🛠️ Tools I Use
