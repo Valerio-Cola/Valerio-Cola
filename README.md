@@ -3,6 +3,7 @@
 <div class="badges-githubstats">
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Valerio-Cola&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Valerio-Cola's Stats" height="165">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valerio-Cola&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Valerio-Cola's Stats" height="165">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Valerio-Cola&theme=tokyonight&hide_border=true" alt="Valerio-Cola's Streak" height="165">
     </p>
 </div>
@@ -39,4 +40,6 @@ Here are some tools I use:
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
     <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white">
+    <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
+    <img src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white">
 </p>
