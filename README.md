@@ -20,7 +20,7 @@ Here are some of my projects:
 Here is some material from my university courses in La Sapienza:
 
 - [Multicore Systems](https://github.com/Valerio-Cola/Sistemi_Multicore): This repository is a collection of university notes from the Multicore Systems Programming course, focused on parallel programming.
-- [Operating Systems Project](https://github.com/Valerio-Cola/course2): Project for the Operating Systems 2 course, it is a program that analyzes large amounts of text and generates sentences from it.
+- [Operating Systems Project]([https://github.com/Valerio-Cola/course2](https://github.com/Valerio-Cola/progetto_sistemi)): Project for the Operating Systems 2 course, it is a program that analyzes large amounts of text and generates sentences from it.
 
 
 ## 🛠️ Tools I Use
