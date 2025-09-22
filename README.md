@@ -27,8 +27,8 @@ Here is some material from my university courses in La Sapienza:
 - [Cybersecurity Project](https://github.com/Valerio-Cola/Progetto-Sicurezza)
 - [AiLab Project RACER](https://github.com/Valerio-Cola/RACER)
 - [Programming Lenguages Project](https://github.com/Valerio-Cola/Progetto-Linguaggi)
-- [Multicore Systems Project](https://github.com/Valerio-Cola/Progetto-Multicore
-- )
+- [Multicore Systems Project](https://github.com/Valerio-Cola/Progetto-Multicore)
+
 ## 🌐 Programming Languages
 
 <p align="center">
