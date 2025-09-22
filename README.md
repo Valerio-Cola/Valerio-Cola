@@ -16,13 +16,19 @@ Here are some of my projects:
 - [Game Of Life In Your Terminal](https://github.com/Valerio-Cola/Game-Of-Life-In-Your-Terminal): A simple implementation of Conway's Game of Life runnable in your Linux terminal using ncurses library.
 - [Ethan](https://github.com/Valerio-Cola/Ethan_): An algorithm able to randomly take artwork from http://wikiart.org and process the relative data.
 
-## 🎓 University Material
+## 🎓 University Material and Projects
 
 Here is some material from my university courses in La Sapienza:
 
 - [Multicore Systems](https://github.com/Valerio-Cola/Sistemi_Multicore): This repository is a collection of university notes from the Multicore Systems Programming course, focused on parallel programming.
+- [Software Engineering](https://github.com/Valerio-Cola/Ingegneria_Software)
+- [AiLab Computer Vision](https://github.com/Valerio-Cola/AI-Lab)
 - [Operating Systems Project](https://github.com/Valerio-Cola/progetto_sistemi): Project for the Operating Systems 2 course, it is a program that analyzes large amounts of text and generates sentences from it.
-
+- [Cybersecurity Project](https://github.com/Valerio-Cola/Progetto-Sicurezza)
+- [AiLab Project RACER](https://github.com/Valerio-Cola/RACER)
+- [Programming Lenguages Project](https://github.com/Valerio-Cola/Progetto-Linguaggi)
+- [Multicore Systems Project](https://github.com/Valerio-Cola/Progetto-Multicore
+- )
 ## 🌐 Programming Languages
 
 <p align="center">
